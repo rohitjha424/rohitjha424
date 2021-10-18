@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rohit Kumar Jha ( @rohitjha424 )
-- 👀 I’m interested in Web Development and Core Java 
-- 🌱 I’m currently learning Node Js
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning React Js
 - 💞️ I’m looking for a Full time Job opportunity in Web Develpmnet
-- My Skills Include : Core java C/C++ , HTML, CSS, JavaScript and Node Js
+- My Skills Include : C/C++, Java, HTML, CSS, JavaScript and React Js
 - 📫 Mail : rohitjha242@gmail.com 
 
 <!---
