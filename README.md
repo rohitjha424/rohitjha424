@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Kumar Jha ( @rohitjha424 )
-- 👀 I’m interested in Full Stack Software Development.
-- 🌱 I’m currently learning Full Software Development.
+- 👀 I’m Full Stack Software Development.
+- 🌱 I’m currently learning Angular - Java Full Stack Development.
 - 💞️ My World is my mom.
 
 ### Connect with me:
