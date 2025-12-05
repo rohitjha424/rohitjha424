@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Kumar Jha ( @rohitjha424 )
-- 👀 I’m Full Stack Software Developer.
+- 👀 I’m a Full Stack Software Developer.
 - 🌱 I’m currently learning Angular - Java Full Stack Development.
 - 💞️ My World is my mom.
 
@@ -43,9 +43,9 @@
 <br/>
 
 ---
-- My Skills Include : C/C++, Java, HTML, CSS, JavaScript and React Js
+- My Skills Include: Java, Springboot, Angular, SQL, JDBC, Hibernate, MVC, C/C++, HTML, CSS, JavaScript, and ReactJS.
 - 📫 Mail : rohitjha242@gmail.com
-- LinkedIn : https://www.linkedin.com/in/rohitjha242/ 
+- LinkedIn: https://www.linkedin.com/in/rohitjha424/ 
 - personal Website : https://rohitatweb.epizy.com/  or Github pages:  https://rohitjha424.github.io/Portfolio-Website/   
 
 
