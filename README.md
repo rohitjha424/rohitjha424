@@ -43,8 +43,8 @@
 <br/>
 
 ---
-- My Skills Include: Java, Springboot, Angular, SQL, JDBC, Hibernate, MVC, C/C++, HTML, CSS, JavaScript, and ReactJS.
-- 📫 Mail : rohitjha242@gmail.com
+- My Skills Include: <strong>Java, Springboot, Angular, SQL, JDBC, Hibernate, MVC, C/C++, HTML, CSS, JavaScript, and ReactJS.</strong>
+- Mail: rohitjha242@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rohitjha424/ 
 - personal Website : https://rohitatweb.epizy.com/  or Github pages:  https://rohitjha424.github.io/Portfolio-Website/   
 
