@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohit Kumar Jha ( @rohitjha424 )
 - 👀 I’m a Full Stack Software Developer.
-- 🌱 I’m currently learning Angular - Java Full Stack Development.
-- 💞️ My World is my mom.
+- 🌱 Currently building systems using Java Spring Boot and Angular in the BFSI domain.
+- 💞️ My World is my Mom.
 
 ### Connect with me:
 
@@ -43,11 +43,11 @@
 <br/>
 
 ---
-- My Skills Include: <strong>Java, Springboot, Angular, SQL, JDBC, Hibernate, MVC, C/C++, HTML, CSS, JavaScript, and ReactJS.</strong>
+- My Skills Include: <strong>Java, Spring Boot, REST APIs, Hibernate, Microservice, Angular, TypeScript, JavaScript, HTML, CSS, MySQL, DSA, Docker.</strong>
 - Mail: rohitjha242@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rohitjha424/ 
 - personal Website : https://rohitatweb.epizy.com/  or Github pages:  https://rohitjha424.github.io/Portfolio-Website/   
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjha424&" alt="rohitjha424" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitjha424)](https://github.com/anuraghazra/github-readme-stats)
 
