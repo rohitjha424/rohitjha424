@@ -58,5 +58,5 @@ You can click the Preview link to take a look at your changes.
 [website]: https://rohitjha424.github.io/Portfolio-Website/
 [twitter]: https://twitter.com/
 [email]: mailto:rohitjha242@gmail.com
-[instagram]: https://instagram.com/the_half_engineer___
-[linkedin]: https://www.linkedin.com/in/rohitjha242/
+[instagram]: https://instagram.com/
+[linkedin]: https://www.linkedin.com/in/rohitjha424/
