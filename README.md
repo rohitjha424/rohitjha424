@@ -44,7 +44,7 @@
 - My Skills Include: <strong>Java, Spring Boot, REST APIs, Hibernate, Microservice, Angular, TypeScript, JavaScript, HTML, CSS, MySQL, DSA, Docker.</strong>
 - Mail: rohitjha242@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rohitjha424/ 
-- personal Website : https://rohitatweb.epizy.com/  or Github pages:  https://rohitjha424.github.io/Portfolio-Website/   
+- personal Website : https://rohit-dev-tl55.onrender.com/  or Github pages:  https://rohitjha424.github.io/Portfolio-Website/   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjha424&" alt="rohitjha424" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitjha424)](https://github.com/anuraghazra/github-readme-stats)
